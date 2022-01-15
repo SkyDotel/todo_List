@@ -1,0 +1,24 @@
+body{
+    margin-top: 100px;
+}
+
+ul{
+padding: 0;
+margin-bottom:0;
+}
+
+ul li{
+    border-style: solid;
+    padding: 5px;
+    list-style: none;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    border: none;
+    width:100%;
+}
